@@ -9,9 +9,9 @@
 
 ## 🛠️ Skills
 
-* **Programming Languages:** C, C++, Python, JavaScript
+* **Programming Languages:** C, Python, Java
 * **Web Technologies:** HTML, CSS
-* **Tools & Platforms:** Git, GitHub, VS Code
+* **Tools & Platforms:** GitHub, VS Code
 
 ---
 
